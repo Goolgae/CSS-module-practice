@@ -14,3 +14,5 @@ import styles from "./{name}.module.css"
 ```
 
 이렇게 할시 고유화가 된다고 한다.
+
+> 그리고 CRA에는 이미 들어있기 때문에 따로 무언가를 다운 받을 필요가 없다!
